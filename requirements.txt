@@ -157,7 +157,6 @@ python-dateutil
 python-hcl2
 pytz
 pytz-deprecation-shim
-pywin32==304
 pywinpty
 PyYAML
 pyzmq
