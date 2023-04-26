@@ -208,7 +208,6 @@ typing_extensions
 tzdata
 tzlocal
 urllib3
-util.py
 utils
 validators
 virtualenv
