@@ -157,7 +157,6 @@ python-dateutil
 python-hcl2
 pytz
 pytz-deprecation-shim
-pywinpty
 PyYAML
 pyzmq
 regex
